@@ -1,3 +1,3 @@
 ## 🎥 Demo Preview
 
-<video src="demo_iphone-style.mp4" controls width="100%"></video>
+<video src="src/videos/iphone-style.mp4" controls width="100%"></video>
